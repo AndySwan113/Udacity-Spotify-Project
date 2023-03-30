@@ -1,6 +1,9 @@
 # Udacity-Spotify-Project
 https://github.com/AndySwan113/Udacity-Spotify-Project/
 
+Medium Blog: https://medium.com/@Andrew-Swan/spotify-recommendation-system-fbf1ccf129bd
+
+
 ## Introduction:
 For this project, I'm going to use a dataset that uses spotify's API 'spotipy' that has gathered data on artists over a variety of years. The dataset includes data about the artist genres and popularity as well as song run time and audio features etc.
 
